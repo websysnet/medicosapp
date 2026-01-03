@@ -1,0 +1,29 @@
+.NavBar {
+    background-color: rgb(100, 232, 115);
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    height: 40px;
+}
+
+.NavBar ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    margin: 0;
+    padding: 0;
+    }   
+
+.NavBar ul li a {
+    text-decoration: none;
+    color: #fbfafa;
+    font-weight: bold;
+    font-size: large;
+}
+.NavBar ul li a:hover{
+    text-decoration: none;
+    color: #0a6f22;
+    font-weight: bold;
+    font-size: large;
+}

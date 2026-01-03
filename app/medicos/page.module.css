@@ -1,0 +1,6 @@
+.divBody {
+    background-color: white;
+    width: 100%;
+    min-height: max-content;
+    height: 100vh;
+}
