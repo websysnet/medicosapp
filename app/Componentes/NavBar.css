@@ -5,6 +5,9 @@
     border-radius: 10px;
     margin-bottom: 20px;
     height: 40px;
+    display: flex;
+    align-items: center;
+    width: 100%;
 }
 
 .NavBar ul {
@@ -19,11 +22,12 @@
     text-decoration: none;
     color: #fbfafa;
     font-weight: bold;
-    font-size: large;
+    font-size: 1.5rem;
+    margin-right: 15px;
 }
 .NavBar ul li a:hover{
     text-decoration: none;
     color: #0a6f22;
     font-weight: bold;
-    font-size: large;
+    font-size: 1.5rem;
 }

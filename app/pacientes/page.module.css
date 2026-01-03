@@ -21,7 +21,7 @@
 }
 
 .card {
-    background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     border-radius: 12px;
     padding: 25px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
@@ -45,7 +45,13 @@
     font-size: 1.5em;
 }
 
-.especialidad {
+.edad {
+    font-size: 0.95em;
+    margin: 10px 0;
+    opacity: 0.9;
+}
+
+.enfermedad {
     font-size: 1.1em;
     margin: 10px 0;
     font-weight: bold;
